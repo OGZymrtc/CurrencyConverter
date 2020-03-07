@@ -1,4 +1,4 @@
-# currencyConverter
+# Currency Converter
 
 It is a currency converter application that I use api and json for cross platform using React native.
 
